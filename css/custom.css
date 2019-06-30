@@ -1,0 +1,34 @@
+/*--- customer choose #e70688 > #f871bf ---*/
+/*--- design #FFAFBD > #ffc3a0 ---*/
+
+.selectpicker {
+    height: fit-content;
+    width: 300px;
+}
+
+img.resize {
+    max-width: 213px;
+    max-height: 213px;
+}
+
+.single-product .card_area .primary-btn {
+    border-radius: 5px;
+    height: fit-content;
+    line-height: 25px;
+}
+
+.single-product .product-details p {
+    margin-bottom: 10px;
+}
+
+.single-product .product-details h6 {
+    margin-bottom: 0px;
+}
+
+.new-topic{
+    padding-top: 30px;
+    border-top: 1px dotted #d5d5d5;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 24px; 
+}
